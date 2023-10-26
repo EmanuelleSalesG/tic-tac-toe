@@ -2,7 +2,7 @@
 - This is a simple tic-tac-toe game created using JavaScript, HTML, and CSS.
 
 ## Project Organization
-- The main parts of the project are organized in the following files:
+The main parts of the project are organized in the following files:
 
 - `script.js`
 - `index.html`
