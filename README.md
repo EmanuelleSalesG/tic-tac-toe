@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-- This is a simple tic-tac-toe game created using JavaScript, HTML, and CSS.
+This is a simple tic-tac-toe game created using JavaScript, HTML, and CSS.
 
 ## Project Organization
 The main parts of the project are organized in the following files:
